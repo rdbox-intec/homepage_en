@@ -20185,7 +20185,7 @@ var _gatsby = __webpack_require__(32);
 
 /*global __PATH_PREFIX__ */
 function withPrefix(path) {
-  return normalizePath("" + "/" + path);
+  return normalizePath("/homepage_en" + "/" + path);
 }
 
 function normalizePath(path) {
@@ -22429,12 +22429,12 @@ var fetchPageResourceMap = function fetchPageResourceMap() {
 };
 
 var createJsonURL = function createJsonURL(jsonName) {
-  return "" + "/static/d/" + jsonName + ".json";
+  return "/homepage_en" + "/static/d/" + jsonName + ".json";
 };
 
 var createComponentUrls = function createComponentUrls(componentChunkName) {
   return window.___chunkMapping[componentChunkName].map(function (chunk) {
-    return "" + chunk;
+    return "/homepage_en" + chunk;
   });
 };
 
@@ -22577,7 +22577,7 @@ var prefetchCompleted = {};
 var disableCorePrefetching = false;
 var queue = {
   addPagesArray: function addPagesArray(newPages) {
-    findPage = Object(_find_page__WEBPACK_IMPORTED_MODULE_8__["default"])(newPages, "");
+    findPage = Object(_find_page__WEBPACK_IMPORTED_MODULE_8__["default"])(newPages, "/homepage_en");
   },
   addDevRequires: function addDevRequires(devRequires) {
     syncRequires = devRequires;
@@ -27788,7 +27788,7 @@ exports.onInitialClientRender = function (_, _ref) {
       netlifyIdentityWidget.on("init", function (user) {
         if (!user) {
           netlifyIdentityWidget.on("login", function () {
-            document.location.href = "" + "/" + publicPath + "/";
+            document.location.href = "/homepage_en" + "/" + publicPath + "/";
           });
         }
       });
@@ -28448,7 +28448,7 @@ window.netlifyIdentity = _netlifyIdentityWidget.default;
 
 var addLoginListener = function addLoginListener() {
   return _netlifyIdentityWidget.default.on("login", function () {
-    document.location.href = "" + "/" + "admin" + "/";
+    document.location.href = "/homepage_en" + "/" + "admin" + "/";
   });
 };
 
