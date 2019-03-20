@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: */admin/
+Disallow: */tags/
+
+sitemap: https://rdbox-intec.github.io/homepage_en/sitemap.xml
