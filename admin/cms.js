@@ -27733,7 +27733,7 @@ module.exports = {
   // Logo used for SEO and manifest.
   siteUrl: 'https://rdbox-intec.github.io',
   // Domain of your website without pathPrefix.
-  pathPrefix: '/homepage_en',
+  pathPrefix: 'homepage_en/',
   // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-business/.
   siteDescription: 'powerful partner in the IT field for "ROS (Robot Operating System) robots".',
   // Website description used for RSS feeds/meta description tag.
