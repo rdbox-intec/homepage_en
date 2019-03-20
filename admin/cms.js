@@ -2825,7 +2825,7 @@ var AboutPageTemplate = function AboutPageTemplate(_ref) {
     className: "section"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     alt: "",
-    src: "/img/dream.png"
+    src: "img/dream.png"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(PageContent, {
     className: "content",
     content: content
@@ -25066,7 +25066,7 @@ var NavBar = function NavBar(_ref) {
         to: "/",
         className: "navbar-item"
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
-        src: "/icons/icon-192x192.png"
+        src: "icons/icon-192x192.png"
       }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("strong", null, "\xA0\xA0\xA0RDBOX")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("button", {
         className: "button navbar-burger " + (isActive ? 'is-active' : ''),
         "data-target": "navMenu",
