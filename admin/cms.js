@@ -25076,7 +25076,10 @@ var NavBar = function NavBar(_ref) {
         id: "navMenu"
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
         className: "navbar-end"
-      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_SearchBox__WEBPACK_IMPORTED_MODULE_3__["default"], {
+      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+        href: "https://rdbox-intec.github.io/homepage_jp/",
+        className: "navbar-item"
+      }, "\u65E5\u672C\u8A9E"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_SearchBox__WEBPACK_IMPORTED_MODULE_3__["default"], {
         searchIndex: data.siteSearchIndex.index
       }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
         className: "navbar-item",
