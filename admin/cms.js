@@ -1347,11 +1347,11 @@ var HomePageTemplate = function HomePageTemplate(_ref) {
     className: "section"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "title has-text-centered has-text-weight-semibold is-size-1"
-  }, "RDBOX"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h6", {
+  }, "RDBOX"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "has-text-centered"
-  }, "~A Robotics Developers BOX~"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, "~A Robotics Developers BOX~"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "has-text-centered"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, title)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+  }, title)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/rdbox-intec/rdbox",
     className: "button is-outlined",
     target: "_blank"
@@ -1371,11 +1371,11 @@ var HomePageTemplate = function HomePageTemplate(_ref) {
     className: "column is-10 is-offset-1"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "content"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "has-text-weight-semibold is-size-2"
   }, heading), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, description)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Offerings__WEBPACK_IMPORTED_MODULE_2__["default"], {
     gridItems: offerings.blurbs
-  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "has-text-weight-semibold is-size-2"
   }, "See case studies"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Testimonials__WEBPACK_IMPORTED_MODULE_3__["default"], {
     testimonials: testimonials
@@ -2825,7 +2825,7 @@ var AboutPageTemplate = function AboutPageTemplate(_ref) {
     className: "section"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     alt: "",
-    src: "img/dream.png"
+    src: "../img/dream.png"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(PageContent, {
     className: "content",
     content: content
@@ -25066,7 +25066,7 @@ var NavBar = function NavBar(_ref) {
         to: "/",
         className: "navbar-item"
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
-        src: "icons/icon-192x192.png"
+        src: "https://rdbox-intec.github.io/homepage_en/icons/icon-192x192.png"
       }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("strong", null, "\xA0\xA0\xA0RDBOX")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("button", {
         className: "button navbar-burger " + (isActive ? 'is-active' : ''),
         "data-target": "navMenu",
