@@ -2825,7 +2825,7 @@ var AboutPageTemplate = function AboutPageTemplate(_ref) {
     className: "section"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
     alt: "",
-    src: "../img/dream.png"
+    src: "https://rdbox-intec.github.io/homepage_en/img/dream.png"
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(PageContent, {
     className: "content",
     content: content
