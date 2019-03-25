@@ -25066,7 +25066,7 @@ var NavBar = function NavBar(_ref) {
         to: "/",
         className: "navbar-item"
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
-        src: "https://rdbox-intec.github.io/homepage_en/icons/icon-192x192.png"
+        src: "https://rdbox-intec.github.io/homepage_en/icons/icon-512x512.png"
       }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("strong", null, "\xA0\xA0\xA0RDBOX")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("button", {
         className: "button navbar-burger " + (isActive ? 'is-active' : ''),
         "data-target": "navMenu",
@@ -27730,7 +27730,7 @@ var Footer = function Footer() {
 module.exports = {
   siteTitle: 'RDBOX (A Robotics Developers BOX)',
   // Site title.
-  siteTitleAlt: 'Orchestrate all resources running ROS robots',
+  siteTitleAlt: 'RDBOX manages all of ROS (Robot Operating System) robot resources with Kubernetes and scalable Wi-Fi networks.',
   // Alternative site title for SEO.
   siteLogo: '/icons/icon-512x512.png',
   // Logo used for SEO and manifest.
