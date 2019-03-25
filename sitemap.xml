@@ -6,5 +6,13 @@
 <url> <loc>https://rdbox-intec.github.io/homepage_en/blog/welcome-to-rdbox/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rdbox-intec.github.io/homepage_en/tags/rdbox/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rdbox-intec.github.io/homepage_en/tags/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rdbox-intec.github.io/homepage_en/tags/raspberry-pi/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rdbox-intec.github.io/homepage_en/tags/kubernetes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rdbox-intec.github.io/homepage_en/tags/docker/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rdbox-intec.github.io/homepage_en/tags/security/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rdbox-intec.github.io/homepage_en/tags/network/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rdbox-intec.github.io/homepage_en/tags/robot/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rdbox-intec.github.io/homepage_en/tags/ros/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://rdbox-intec.github.io/homepage_en/tags/multiple/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://rdbox-intec.github.io/homepage_en/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
