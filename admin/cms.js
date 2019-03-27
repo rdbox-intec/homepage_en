@@ -1359,7 +1359,11 @@ var HomePageTemplate = function HomePageTemplate(_ref) {
     href: "https://github.com/rdbox-intec/rdbox/wiki",
     className: "button is-primary",
     target: "_blank"
-  }, "Take the Tutorial")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+  }, "Take the Tutorial"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "http://wiki.ros.org/RDBOX",
+    className: "button is-outlined",
+    target: "_blank"
+  }, "ROS Wiki")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     className: "section section--gradient"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container"
