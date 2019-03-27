@@ -1361,7 +1361,7 @@ var HomePageTemplate = function HomePageTemplate(_ref) {
     target: "_blank"
   }, "Take the Tutorial"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "http://wiki.ros.org/RDBOX",
-    className: "button is-outlined",
+    className: "button is-primary",
     target: "_blank"
   }, "ROS Wiki")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     className: "section section--gradient"
