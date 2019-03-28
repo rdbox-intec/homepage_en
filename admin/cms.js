@@ -27716,13 +27716,11 @@ var Footer = function Footer() {
     className: "container"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "content has-text-centered"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, _data_config__WEBPACK_IMPORTED_MODULE_1___default.a.copyright), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, "Powered by ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "https://www.gatsbyjs.org"
-  }, "Gatsby"), " and ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "https://www.netlifycms.org"
-  }, "Netlify CMS"), " | ", react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "https://github.com/v4iv/gatsby-starter-business"
-  }, "Github Repository")))));
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, _data_config__WEBPACK_IMPORTED_MODULE_1___default.a.copyright), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "http://www.tis.com/tis_securitypolicy/"
+  }, "Information Security Policy")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "http://www.tis.com/termsofuse/"
+  }, "Disclaimer and Terms of Use")))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Footer);
