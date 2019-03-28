@@ -27755,7 +27755,7 @@ module.exports = {
   userTwitter: '',
   userLocation: 'Tokyo, Japan',
   userDescription: '',
-  copyright: 'Copyright © RDBOX Project of INTEC Inc. 2019. All Rights Reserved.',
+  copyright: 'Copyright © RDBOX Project. 2019. All Rights Reserved.',
   // Copyright string for the footer of the website and RSS feed.
   themeColor: '#00d1b2',
   // Used for setting manifest and progress theme colors.
