@@ -1345,11 +1345,13 @@ var HomePageTemplate = function HomePageTemplate(_ref) {
     className: "column is-10 is-offset-1"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "section"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
-    className: "title has-text-centered has-text-weight-semibold is-size-1"
-  }, "RDBOX"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
-    className: "has-text-centered"
-  }, "~A Robotics Developers BOX~"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "https://github.com/rdbox-intec/rdbox",
+    target: "_blank"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "img/logo_orange.png",
+    width: "300px"
+  }))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "has-text-centered"
   }, title)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/rdbox-intec/rdbox",
@@ -1359,11 +1361,7 @@ var HomePageTemplate = function HomePageTemplate(_ref) {
     href: "https://github.com/rdbox-intec/rdbox/wiki",
     className: "button is-primary",
     target: "_blank"
-  }, "Take the Tutorial"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "http://wiki.ros.org/RDBOX",
-    className: "button is-primary",
-    target: "_blank"
-  }, "ROS Wiki")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+  }, "Get started >")))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
     className: "section section--gradient"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "container"
@@ -1375,7 +1373,69 @@ var HomePageTemplate = function HomePageTemplate(_ref) {
     className: "column is-10 is-offset-1"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "content"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "columns is-multiline"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "column is-2"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "has-text-centered"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    alt: "",
+    src: "img/ROS.png",
+    width: "90px"
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "has-text-centered"
+  }, "For ROS"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "column is-2"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "has-text-centered"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    alt: "",
+    src: "img/k8s_mono.png",
+    width: "90px"
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "has-text-centered"
+  }, "Kubernetes ready"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "column is-2"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "has-text-centered"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    alt: "",
+    src: "img/RP.png",
+    width: "70px"
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "has-text-centered"
+  }, "Use RaspberryPi"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "column is-2"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "has-text-centered"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    alt: "",
+    src: "img/secure.png",
+    width: "90px"
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "has-text-centered"
+  }, "VPN & FireWall"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "column is-2"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "has-text-centered"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    alt: "",
+    src: "img/mesh-wifi.png",
+    width: "90px"
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "has-text-centered"
+  }, "Mesh Wi-Fi"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "column is-2"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "has-text-centered"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    alt: "",
+    src: "img/netapp.png",
+    width: "90px"
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+    className: "has-text-centered"
+  }, "DHCP/DNS/NTP Trans-Proxy"))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "has-text-weight-semibold is-size-2"
   }, heading), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, description)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Offerings__WEBPACK_IMPORTED_MODULE_2__["default"], {
     gridItems: offerings.blurbs
@@ -1383,7 +1443,31 @@ var HomePageTemplate = function HomePageTemplate(_ref) {
     className: "has-text-weight-semibold is-size-2"
   }, "See case studies"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_Testimonials__WEBPACK_IMPORTED_MODULE_3__["default"], {
     testimonials: testimonials
-  }))))))));
+  }))))))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("section", {
+    className: "hero is-outlined is-bold is-small"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "hero-body"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "container"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "columns"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+    className: "column is-10 is-offset-1"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "https://github.com/rdbox-intec/rdbox",
+    target: "_blank"
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
+    src: "https://rdbox-intec.github.io/homepage_en/icons/icon-512x512.png",
+    width: "150px"
+  })))), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("center", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "Robotize your IT infrastructure for ROS robots."), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "~ No more worrying network or app delivery ~ ")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "https://github.com/rdbox-intec/rdbox",
+    className: "button is-primary",
+    target: "_blank"
+  }, "View on GitHub"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", null, " "), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+    href: "https://github.com/rdbox-intec/rdbox/wiki",
+    className: "button is-primary",
+    target: "_blank"
+  }, "Get started >")))))))));
 };
 
 HomePageTemplate.propTypes = {
@@ -25085,7 +25169,10 @@ var NavBar = function NavBar(_ref) {
         className: "navbar-item"
       }, "\u65E5\u672C\u8A9E"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(_SearchBox__WEBPACK_IMPORTED_MODULE_3__["default"], {
         searchIndex: data.siteSearchIndex.index
-      }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
+      }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+        href: "https://github.com/rdbox-intec/rdbox",
+        className: "navbar-item"
+      }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("strong", null, "GitHub")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
         className: "navbar-item",
         to: "/about"
       }, "About"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
