@@ -2788,7 +2788,10 @@ var Offerings = function Offerings(_ref) {
     }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("img", {
       alt: "",
       src: item.image
-    })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, item.text)));
+    })), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, item.text), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
+      href: "https://github.com/rdbox-intec/rdbox",
+      target: "_blank"
+    }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("u", null, "for more infomation >"))));
   }));
 };
 
