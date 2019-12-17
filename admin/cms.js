@@ -1373,7 +1373,7 @@ var HomePageTemplate = function HomePageTemplate(_ref) {
     href: "https://github.com/rdbox-intec/rdboxGARIBAN/releases/download/v0.1.0/rdboxGARIBAN-Setup-0.1.0.exe",
     target: "_blank"
   }, "\uD83D\uDD3DWindows10 | "), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "https://github.com/rdbox-intec/rdboxGARIBAN/releases/",
+    href: "https://github.com/rdbox-intec/rdboxGARIBAN/releases/download/v0.1.0/rdboxGARIBAN-0.1.0.dmg",
     target: "_blank"
   }, "\uD83D\uDD3DMacOS | "), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
     href: "https://github.com/rdbox-intec/rdboxGARIBAN/releases/",
