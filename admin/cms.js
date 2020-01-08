@@ -27827,10 +27827,10 @@ var Footer = function Footer() {
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "content has-text-centered"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, _data_config__WEBPACK_IMPORTED_MODULE_1___default.a.copyright), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "http://www.tis.com/tis_securitypolicy/"
+    href: "https://www.intec.co.jp/security.html"
   }, "Information Security Policy")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "http://www.tis.com/termsofuse/"
-  }, "Disclaimer and Terms of Use")))));
+    href: "https://www.intec.co.jp/privacypolicy/"
+  }, "Privacy Policy")))));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Footer);
