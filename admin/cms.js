@@ -25198,9 +25198,9 @@ var NavBar = function NavBar(_ref) {
       }, react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("strong", null, "GitHub")), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
         className: "navbar-item",
         to: "/about"
-      }, "About"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
+      }, "About"), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
         className: "navbar-item",
-        to: "/blog"
+        href: "https://medium.com/rdbox"
       }, "Blog"))));
     },
     data: _public_static_d_1346230460_json__WEBPACK_IMPORTED_MODULE_0__
